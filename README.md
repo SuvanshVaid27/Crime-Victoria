@@ -15,5 +15,7 @@ This repository contains my approach on developing an insights dashboard for the
 6. What is the trend of public transport related crimes from 2011 to 2021 in Melbourne?
 
 ## Answers!
-This dashboard below tries to summarise my findings while I tried to answer the above questions. I used Microsoft Excel to create all the tables and charts. 
+This dashboard below tries to summarise my findings while I tried to answer the above questions. 
+I used Microsoft Excel to create all the tables and charts. 
+
 <img src="https://github.com/SuvanshVaid27/crime-victoria/blob/main/dashboard.png" width="800" height = "400" title="Dashboard">
